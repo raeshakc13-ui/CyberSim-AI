@@ -8,6 +8,10 @@ CyberSim AI is an interactive cybersecurity training simulator that allows users
 
 The project is being developed as a hands-on way to combine cybersecurity concepts, incident response, Python development, and generative AI.
 
+## Demo
+
+![CyberSim AI phishing incident investigation demo](Screenshots/Cybersimdemo.png)
+
 ## Current Features
 
 - Multiple simulated cybersecurity incidents, including phishing, suspicious login, and malware scenarios
